@@ -1,0 +1,20 @@
+nav .navbar_title{
+    font-family: GT-Walsheim;
+    color: #582c7f;
+    font-weight: 600;
+}
+body{
+    background-color: #582c7f;
+    font-family: 'Inter', sans-serif;
+    color: #582c7f;
+    overflow-x: hidden;
+}
+nav {
+    background-color: rgb(252, 252, 252);
+}
+.navbar_title{
+    padding-left: 38px;
+}
+button{
+    height: 34px;
+}
