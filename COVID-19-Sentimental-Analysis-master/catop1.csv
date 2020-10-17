@@ -1,0 +1,16 @@
+file name,cat_score,cat_label
+doc01-04-2020,0.841032,"/law, govt and politics"
+doc01-04-2020,0.804847,/society/unrest and war
+doc01-04-2020,0.72623,/business and industrial/business operations/business plans
+doc02-04-2020,0.796211,"/law, govt and politics"
+doc02-04-2020,0.732483,/society/unrest and war
+doc02-04-2020,0.690598,/family and parenting/children
+doc03-04-2020,0.794376,/health and fitness/disease/cold and flu
+doc03-04-2020,0.695038,/health and fitness/disease/epidemic
+doc03-04-2020,0.611352,"/law, govt and politics"
+doc04-04-2020,0.841032,"/law, govt and politics"
+doc04-04-2020,0.804847,/society/unrest and war
+doc04-04-2020,0.72623,/business and industrial/business operations/business plans
+doc05-04-2020,0.794376,/health and fitness/disease/cold and flu
+doc05-04-2020,0.695038,/health and fitness/disease/epidemic
+doc05-04-2020,0.611352,"/law, govt and politics"
